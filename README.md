@@ -9,3 +9,8 @@ flet run [app_directory]
 ```
 
 lien apk ==> https://drive.google.com/file/d/1rSYoTV_uVs30ufHm_Z4JftzoqrA65PCw/view?usp=sharing
+
+
+
+https://github.com/user-attachments/assets/68d60569-480c-488f-a087-abf23801f047
+
